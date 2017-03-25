@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_da2dbd095d87433cb79b7f1696098702313f5fad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_c99d3126b36b64c55153527e585f37aa2fb4e7b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_9809def490dee45e3da9b3c718203574d92b20e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/libs/okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/okhttp-2.7.5_a158aa75a9ed4943c9a611ceeeb6d7e0be9bd8dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/libs/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/additionnal_bbcb3326840932b373691972fe2502a42845f907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.56.android/4eef0ac3ef5e18db7af5d44ca0228ca5c29dd2f6/fastjson-1.1.56.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4eef0ac3ef5e18db7af5d44ca0228ca5c29dd2f6">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/fastjson-1.1.56.android_a40f7c9e08eae98ff93946bcb5bb3b3512061632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_70871f231e089a15f8b75ca9c6fc78551f3cf39d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_ff267dbdeff3b11a5300bdbf0c9ef03c009e3c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/libs/android-async-http-1.4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.5_0ed67728ceddd44640861f0d5514f00e10a95ce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_e76612bc1f294b42ac599161f5b9113ae09149d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/libs/activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/activation_a7dc3182e9afe7f0392ccd30c3e21a104acbfb2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.mani/ThinDownloadManager/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="64383207cdbacbc51e651523ea23c843ea8d046b">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/com.mani-ThinDownloadManager-1.3.0_7c03456e453bbe095f13dfc4b1e051e41a7be085.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_367f6578a41055927d157a532a9651d0e156bb27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/libs/dnsjava-2.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="441ce0c012497bf338147c8853365f955f51b9bd">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/dnsjava-2.1.7_9d1e3ead415a3895f458c5988fb4f8fb812a0be7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/libs/mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4f2f73d54bf10222b97e9841332451d5263571a2">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/mail_91b923082dc78cf2ef0955810ffbf9885812b226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.8.0_8c4a0c318862989246c4458dac2952478fb36fd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_52311d3a9e87e2822c3bbd696c4e217ed2e5184b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/libs/commons-net-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="643cc426b9f75aa111fac0fac0e52ff5d991a337">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/commons-net-3.0.1_e25ac3a320f57153d6527c88af4f09a85477e85f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_8f2361ef7243e345933bbd91f020c8dac4d48532.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_44c87301519320bfa865f0263f713a482184d4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_26712d1a89fa5b43d3204dbe37d331c7f1206e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_bc913e0d2efae103d4de53af8e3e183a04ab71ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/libs/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/pre-dexed/debug/okio-1.11.0_c1639ed530ccaaa9dc15b5a2375a95a1a211e4d4.jar" />
+    </item>
+
+</items>
