@@ -2,5 +2,9 @@
     {
         "merged": "/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/shichunxiao/AndroidStudioProjects/netcheck/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shichunxiao/Downloads/netcheck-a08e106b11e9191e65f166e9930abe7642345162/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/shichunxiao/Downloads/netcheck-a08e106b11e9191e65f166e9930abe7642345162/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]

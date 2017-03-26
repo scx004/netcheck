@@ -1,4 +1,4 @@
-#Thu Mar 23 22:15:30 CST 2017
+#Sat Mar 25 14:06:01 CST 2017
 base.0=/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

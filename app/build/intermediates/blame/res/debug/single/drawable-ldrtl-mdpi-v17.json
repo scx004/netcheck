@@ -8,11 +8,27 @@
         "source": "/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "/Users/shichunxiao/Downloads/netcheck-a08e106b11e9191e65f166e9930abe7642345162/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/shichunxiao/Downloads/netcheck-a08e106b11e9191e65f166e9930abe7642345162/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-mdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/shichunxiao/Downloads/netcheck-a08e106b11e9191e65f166e9930abe7642345162/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/shichunxiao/Downloads/netcheck-a08e106b11e9191e65f166e9930abe7642345162/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
         "merged": "/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
         "source": "/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
         "source": "/Users/shichunxiao/AndroidStudioProjects/netcheck/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/shichunxiao/Downloads/netcheck-a08e106b11e9191e65f166e9930abe7642345162/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/shichunxiao/Downloads/netcheck-a08e106b11e9191e65f166e9930abe7642345162/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/shichunxiao/Downloads/netcheck-a08e106b11e9191e65f166e9930abe7642345162/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/shichunxiao/Downloads/netcheck-a08e106b11e9191e65f166e9930abe7642345162/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     }
 ]
